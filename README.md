@@ -1,4 +1,4 @@
 # demo
 first repository 
 <br>
-author Nouman Khalid
+author NOUMAN KHALID
